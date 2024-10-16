@@ -1,0 +1,45 @@
+{
+  "name": "IdentityB2cUserFlowIdLanguageIdOverridesPageId",
+  "id": "/identity/b2cUserFlows/{b2cIdentityUserFlowId}/languages/{userFlowLanguageConfigurationId}/overridesPages/{userFlowLanguagePageId}",
+  "segments": [
+    {
+      "exampleValue": "",
+      "name": "identity",
+      "type": "Static",
+      "value": "identity"
+    },
+    {
+      "exampleValue": "",
+      "name": "b2cUserFlows",
+      "type": "Static",
+      "value": "b2cUserFlows"
+    },
+    {
+      "exampleValue": "b2cIdentityUserFlowId",
+      "name": "b2cIdentityUserFlowId",
+      "type": "UserSpecified"
+    },
+    {
+      "exampleValue": "",
+      "name": "languages",
+      "type": "Static",
+      "value": "languages"
+    },
+    {
+      "exampleValue": "userFlowLanguageConfigurationId",
+      "name": "userFlowLanguageConfigurationId",
+      "type": "UserSpecified"
+    },
+    {
+      "exampleValue": "",
+      "name": "overridesPages",
+      "type": "Static",
+      "value": "overridesPages"
+    },
+    {
+      "exampleValue": "userFlowLanguagePageId",
+      "name": "userFlowLanguagePageId",
+      "type": "UserSpecified"
+    }
+  ]
+}

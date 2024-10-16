@@ -1,0 +1,34 @@
+{
+  "name": "IdentityB2cUserFlowIdUserAttributeAssignmentId",
+  "id": "/identity/b2cUserFlows/{b2cIdentityUserFlowId}/userAttributeAssignments/{identityUserFlowAttributeAssignmentId}",
+  "segments": [
+    {
+      "exampleValue": "",
+      "name": "identity",
+      "type": "Static",
+      "value": "identity"
+    },
+    {
+      "exampleValue": "",
+      "name": "b2cUserFlows",
+      "type": "Static",
+      "value": "b2cUserFlows"
+    },
+    {
+      "exampleValue": "b2cIdentityUserFlowId",
+      "name": "b2cIdentityUserFlowId",
+      "type": "UserSpecified"
+    },
+    {
+      "exampleValue": "",
+      "name": "userAttributeAssignments",
+      "type": "Static",
+      "value": "userAttributeAssignments"
+    },
+    {
+      "exampleValue": "identityUserFlowAttributeAssignmentId",
+      "name": "identityUserFlowAttributeAssignmentId",
+      "type": "UserSpecified"
+    }
+  ]
+}

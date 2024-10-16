@@ -63,7 +63,7 @@ service "groups" {
 
 service "identity" {
   name      = "Identity"
-  available = ["stable"]
+  available = ["stable", "beta"]
 }
 
 service "identityGovernance" {

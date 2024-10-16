@@ -1,0 +1,23 @@
+{
+  "name": "IdentityB2cUserFlowId",
+  "id": "/identity/b2cUserFlows/{b2cIdentityUserFlowId}",
+  "segments": [
+    {
+      "exampleValue": "",
+      "name": "identity",
+      "type": "Static",
+      "value": "identity"
+    },
+    {
+      "exampleValue": "",
+      "name": "b2cUserFlows",
+      "type": "Static",
+      "value": "b2cUserFlows"
+    },
+    {
+      "exampleValue": "b2cIdentityUserFlowId",
+      "name": "b2cIdentityUserFlowId",
+      "type": "UserSpecified"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "IdentityB2cUserFlowIdLanguageIdDefaultPageId",
+  "id": "/identity/b2cUserFlows/{b2cIdentityUserFlowId}/languages/{userFlowLanguageConfigurationId}/defaultPages/{userFlowLanguagePageId}",
+  "segments": [
+    {
+      "exampleValue": "",
+      "name": "identity",
+      "type": "Static",
+      "value": "identity"
+    },
+    {
+      "exampleValue": "",
+      "name": "b2cUserFlows",
+      "type": "Static",
+      "value": "b2cUserFlows"
+    },
+    {
+      "exampleValue": "b2cIdentityUserFlowId",
+      "name": "b2cIdentityUserFlowId",
+      "type": "UserSpecified"
+    },
+    {
+      "exampleValue": "",
+      "name": "languages",
+      "type": "Static",
+      "value": "languages"
+    },
+    {
+      "exampleValue": "userFlowLanguageConfigurationId",
+      "name": "userFlowLanguageConfigurationId",
+      "type": "UserSpecified"
+    },
+    {
+      "exampleValue": "",
+      "name": "defaultPages",
+      "type": "Static",
+      "value": "defaultPages"
+    },
+    {
+      "exampleValue": "userFlowLanguagePageId",
+      "name": "userFlowLanguagePageId",
+      "type": "UserSpecified"
+    }
+  ]
+}

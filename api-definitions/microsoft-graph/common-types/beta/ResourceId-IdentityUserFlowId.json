@@ -1,0 +1,23 @@
+{
+  "name": "IdentityUserFlowId",
+  "id": "/identity/userFlows/{identityUserFlowId}",
+  "segments": [
+    {
+      "exampleValue": "",
+      "name": "identity",
+      "type": "Static",
+      "value": "identity"
+    },
+    {
+      "exampleValue": "",
+      "name": "userFlows",
+      "type": "Static",
+      "value": "userFlows"
+    },
+    {
+      "exampleValue": "identityUserFlowId",
+      "name": "identityUserFlowId",
+      "type": "UserSpecified"
+    }
+  ]
+}
